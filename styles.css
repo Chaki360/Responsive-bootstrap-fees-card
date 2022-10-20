@@ -1,0 +1,10 @@
+.pricing {
+    box-sizing: border-box;
+    border: solid 1px black;
+    height: 105px;
+    width: 190px;
+    margin: auto;
+    border: none;
+    background-color: Azure;
+
+}
